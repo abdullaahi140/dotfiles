@@ -129,3 +129,7 @@ export PATH=$PATH:$HOME/go/bin
 # Alias for lazygit and lazydocker
 alias lg="lazygit"
 alias ld="lazydocker"
+
+# Path for yarn global executables
+export PATH=$PATH:$HOME/.yarn/bin
+
